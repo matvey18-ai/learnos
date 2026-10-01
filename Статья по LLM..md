@@ -1,0 +1,1 @@
+[Как на самом деле работают LLM / Хабр](https://habr.com/ru/companies/timeweb/articles/1055872/?ysclid=mupic0dm60105691503)

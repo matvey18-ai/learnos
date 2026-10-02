@@ -2,7 +2,7 @@
 type: glossary
 title: Глоссарий
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-02
 status: draft
 tags: [glossary]
 sources: []
@@ -14,4 +14,5 @@ sources: []
 
 | Термин | Кратко | Полная заметка |
 | --- | --- | --- |
+| внимание (attention) | один проход перераспределения сигнала между токенами через Q, K, V и softmax | [[attention]] |
 | _пример_ | _краткое определение_ | [[concept-name]] |

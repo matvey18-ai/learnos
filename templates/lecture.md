@@ -1,7 +1,7 @@
 ---
 type: lecture
-title: Лекция — тема
-created: YYYY-MM-DD
+title: Лекция — LLM and agents
+created: 2026-10-01
 updated: YYYY-MM-DD
 status: draft
 tags: []

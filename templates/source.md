@@ -1,7 +1,7 @@
 ---
-type: source
-title: Название источника
-created: YYYY-MM-DD
+type: article
+title: LLM статья
+created: 2026-10-01
 updated: YYYY-MM-DD
 status: draft
 tags: []

@@ -1,0 +1,8 @@
+Внутри функции value = 20
+Снаружи функции value = 10
+Внутри demo() local_only = 42
+Traceback (most recent call last):
+  File "C:\Users\isil7\OneDrive\Документы\learnos-main\labs\2026-term1-lab-03-functions\task03.py", line 21, in <module>
+    print("Обращение к local_only после вызова:", local_only)
+                                                  ^^^^^^^^^^
+NameError: name 'local_only' is not defined
